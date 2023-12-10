@@ -2,7 +2,7 @@ Thanks for downloading this theme!
 
 ## Live Visit
 
-[Click For Live Visit](https://learnwithfair.github.io/html-template-ecommerce-electro-master/)
+[Click For Live Visit](https://learnwithfair.github.io/html-template-ecommerce-foody/)
 
 ## For More Website Demo
 
